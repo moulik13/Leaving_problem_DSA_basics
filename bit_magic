@@ -1,1 +1,3 @@
 1. In count bit method one (we have to use new hadder file #include <bits/stdc++.h> )  
+
+while runing this program in vs code my code is not working when i was not giving int throung cin>> rather i am giving it through diect form in code 
